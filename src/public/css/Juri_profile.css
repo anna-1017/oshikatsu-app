@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: ;
+}
+
+.toppage__header {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    margin-bottom: 30px;
+}
+
+.header__inner {}
+
+.header-logo {
+    width: auto;
+    height: auto;
+}
+
+
+.juri-profile {
+    margin-top: 50px;
+    margin: 0 auto;
+    /*中央寄せにするため */
+    width: 100%;
+    max-width: 1300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.profile-img {
+    width: 60%;
+    height: auto;
+}
+
+.profile-img img {
+    width: 100%;
+}
+
+.profile-text {
+    color: ;
+    font-size: 24px;
+}
+
+.name-wrap,
+.birthday-wrap,
+.birthplace-wrap,
+.bloodtype-wrap {
+    display: flex;
+}

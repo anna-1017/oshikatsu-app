@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: black;
+}
+
 .member-profile {
     background-color: black;
     height: 100vh;
@@ -15,7 +19,7 @@
     width: 100%;
     height: 100px;
     background-color: black;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 .header__inner {}

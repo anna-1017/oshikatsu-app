@@ -9,18 +9,16 @@
 </head>
 
 <body>
+  <header class="toppage__header">
+    <div class="header__inner">
+      <div class="header-logo">
+        <img src="SixTONES_logo.png" alt="logo" class="logo">
+      </div>
+    </div>
+  </header>
 
   <main class="member-profile">
-    <div class="member-profile__inner">
-      <header class="toppage__header">
-        <div class="header__inner">
-          <div class="header-logo">
-            <img src="SixTONES_logo.png" alt="logo" class="logo">
-          </div>
-        </div>
-      </header>
-
-    <!--6人の写真を3枚ずつ2段に並べて、クリックしたらここのページに飛ぶようにする -->
+    <!--<div class="member-profile__inner"> -->
       <div class="member-chart">
         <a href="juri"><img src="Juri.png" alt="Juri">Juri Tanaka</a>
         <a href="taiga"><img src="Taiga.png" alt="Taiga">Taiga Kyomoto</a>
@@ -29,7 +27,7 @@
         <a href="hokuto"><img src="Hokuto.png" alt="Hokuto">Hokuto Matsumura</a>
         <a href="shintaro"><img src="Shintaro.png" alt="Shintaro">Shintaro Morimoto</a>
       </div>
-    </div>
+    <!--</div>-->
 
 
   </main>
