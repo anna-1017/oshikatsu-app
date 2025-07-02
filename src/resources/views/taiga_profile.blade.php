@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Juri's Profile</title>
+    <title>Taiga's Profile</title>
 
-    <link rel="stylesheet" href="juri_profile.css">
+    <link rel="stylesheet" href="taiga_profile.css">
 </head>
 
 <body>
@@ -17,22 +17,22 @@
     </div>
   </header>
   
-  <main class="juri-profile">
+  <main class="profile">
     <div class="profile-img">
-      <img src="Juri.png" alt="juri-img">
+      <img src="Taiga.png" alt="Taiga-img">
     </div>
 
     <div class="profile-text">
       <div class="name-wrap">
-        <span>【名前】</span><div class="name">田中 樹 / Juri Tanaka</div>
+        <span>【名前】</span><div class="name">京本 大我 / Taiga Kyomoto</div>
       </div>
 
       <div class="birthday-wrap">
-        <span>【生年月日】</span><div class="birthday">1995年6月15日</div>
+        <span>【生年月日】</span><div class="birthday">1994年12月3日</div>
       </div>
       
       <div class="birthplace-wrap">
-        <span>【出身地】</span><div class="birthplace">千葉県出身</div>
+        <span>【出身地】</span><div class="birthplace">東京都</div>
       </div>
       
       <div class="bloodtype-wrap">
@@ -40,13 +40,9 @@
       </div>
       
       <div class="others-wrap">
-        <span>【愛すべきポイント】</span>
+        <span>【ポイント/エピソード】</span>
         <div class="charm-points">
-          ・サングラスやゴールドアクセで自信をかわいさを隠している<br>
-          ・キレイ好き<br>
-          　-テーブルの角に合わせてリモコンを配置<br>
-          　-楽屋もキレイに整理整頓<br>
-          ・自宅では部屋ごとに香りにもこだわる<br>
+          ・
         </div>
       </div>
     </div>
