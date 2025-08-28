@@ -27,7 +27,7 @@
         <h2 class="day">(SAT)</h2>
       </div>
       <div class="rightside">
-        <span class="tag">TV</span>
+        <span class="tv-tag">TV</span>
         <span class="time">15:00-</span>
         <div class="media-title">THE MUSIC DAY 2025 (日本テレビ系)</div>
         <div class="who">SixTONES</div>
@@ -35,7 +35,7 @@
 
         <div class="dotted-line"></div>
 
-        <span class="tag">RADIO</span>
+        <span class="radio-tag">RADIO</span>
         <div class="time">23:30-</div>
         <div class="media-title">SixTONESのオールナイトニッポンサタデースペシャル（ニッポン放送）</div>
         <div class="who">SixTONES</div>
@@ -50,14 +50,14 @@
         <h2 class="day">(SUN)</h2>
       </div>
       <div class="rightside">
-        <span class="tag">TV</span>
+        <span class="tv-tag">TV</span>
         <span class="time">11:45-</span>
         <div class="media-title">スクール革命！ (日本テレビ系)</div>
         <div class="who">髙地優吾</div>
         
         <div class="dotted-line"></div>
 
-        <span class="tag">TV</span>
+        <span class="tv-tag">TV</span>
         <span class="time">19:00-</span>
         <div class="media-title">ザ！鉄腕！DASH!! (日本テレビ系)</div>
         <div class="who">森本慎太郎</div>
@@ -65,7 +65,7 @@
 
         <div class="dotted-line"></div>
 
-        <span class="tag">TV</span>
+        <span class="tv-tag">TV</span>
         <span class="time">21:00-</span>
         <div class="media-title">Golden SixTONES (日本テレビ系)</div>
         <div class="who">SixTONES</div>
@@ -80,7 +80,7 @@
         <h2 class="day">(MON)</h2>
       </div>
       <div class="rightside">
-        <span class="tag">MAGAZINE</span>
+        <span class="magazine-tag">MAGAZINE</span>
         <div class="media-title">Duet 8月号</div>
         <div class="who">森本慎太郎</div>
       </div>
@@ -94,7 +94,7 @@
         <h2 class="day">(TUE)</h2>
       </div>
       <div class="rightside">
-        <span class="tag">TV</span>
+        <span class="tv-tag">TV</span>
         <span class="time">18:30-</span>
         <div class="media-title">THE 神業チャレンジSP(TBS系)</div>
         <div class="who">髙地優吾</div>
@@ -110,7 +110,7 @@
         <h2 class="day">(WED)</h2>
       </div>
       <div class="rightside">
-        <span class="tag">MAGAZINE</span>
+        <span class="magazine-tag">MAGAZINE</span>
         <div class="media-title">えんぶ8月号</div>
         <div class="who">京本大我　※表紙</div>
       </div>
@@ -125,7 +125,7 @@
         <h2 class="day">(THU)</h2>
       </div>
       <div class="rightside">
-        <span class="tag">CONCERT</span>
+        <span class="concert-tag">CONCERT</span>
         <div class="media-title">TAIGA KYOMOTO LIVE TOUR 2025 BLUE OF LIBERTY（東京都）</div>
         <div class="who">京本大我</div>
       </div>
@@ -133,20 +133,82 @@
     
     
     <div class="border"></div>
+
     <div class="schedule-item">
       <div class="leftside">
         <h2 class="date">11</h2>
         <h2 class="day">(FRI)</h2>
       </div>
       <div class="rightside">
-        <span class="tag">CONCERT</span>
+        <span class="concert-tag">CONCERT</span>
         <div class="media-title">TAIGA KYOMOTO LIVE TOUR 2025 BLUE OF LIBERTY（東京都）</div>
         <div class="who">京本大我</div>
       </div>
     </div>
     
-    
+  
     <div class="border"></div>
+
+    <div class="schedule-item">
+      <div class="leftside">
+        <h2 class="date">12</h2>
+        <h2 class="day">(SAT)</h2>
+      </div>
+      <div class="rightside">
+        <span class="radio-tag">RADIO</span>
+        <span class="time">23:30-</span>
+        <div class="media-title">SixTONESのオールナイトニッポンサタデースペシャル (ニッポン放送)</div>
+        <div class="who">SixTONES</div>
+      </div>
+    </div>
+
+    <div class="border"></div>
+
+    <div class="schedule-item">
+      <div class="leftside">
+        <h2 class="date">13</h2>
+        <h2 class="day">(SUN)</h2>
+      </div>
+      <div class="rightside">
+        <span class="tv-tag">TV</span>
+        <span class="time">11:45-</span>
+        <div class="media-title">スクール革命！ (日本テレビ系)</div>
+        <div class="who">髙地優吾</div>
+
+       <div class="dotted-line"></div>
+
+        <span class="tv-tag">TV</span>
+        <span class="time">19:00-</span>
+        <div class="media-title">ザ！鉄腕！DASH!! (日本テレビ系)</div>
+        <div class="who">森本慎太郎</div>
+
+       <div class="dotted-line"></div> 
+
+        <span class="tv-tag">TV</span>
+        <span class="time">21:00-</span>
+        <div class="media-title">Golden SixTONES (日本テレビ系)</div>
+        <div class="who">SixTONES</div>
+      </div>
+    </div>
+
+    <div class="border"></div>
+
+    <div class="schedule-item">
+      <div class="leftside">
+        <h2 class="date">15</h2>
+        <h2 class="day">(TUE)</h2>
+      </div>
+      <div class="rightside">
+        <span class="birthday-tag">BIRTHDAY</span>
+        <div class="who">森本慎太郎</div>
+
+       <div class="dotted-line"></div>
+
+        <span class="magazine-tag">TV</span>
+        <div class="media-title">QLAP！ 8月号</div>
+        <div class="who">京本大我&nbsp;&nbsp;髙地優吾&nbsp;田中樹</div>
+      </div>
+    </div>
   
 
     

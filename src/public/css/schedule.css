@@ -22,6 +22,10 @@ body {
     height: auto;
 }
 
+.schedule-page {
+    margin: 0 20px;
+}
+
 .month {
     font-size: 18px;
     font-weight: bold;
@@ -42,10 +46,30 @@ body {
 
 }
 
-.tag {
+.tv-tag,
+.radio-tag,
+.magazine-tag {
     display: inline-block;
     padding: 1px 15px;
     background-color: rgb(137, 188, 230);
+    border-radius: 20px;
+    font-size: 16px;
+    gap: 5px;
+}
+
+.concert-tag {
+    display: inline-block;
+    padding: 1px 15px;
+    background-color: rgb(247, 247, 128);
+    border-radius: 20px;
+    font-size: 16px;
+    gap: 5px;
+}
+
+.birthday-tag {
+    display: inline-block;
+    padding: 1px 15px;
+    background-color: pink;
     border-radius: 20px;
     font-size: 16px;
     gap: 5px;
